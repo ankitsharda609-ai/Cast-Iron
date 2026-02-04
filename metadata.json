@@ -1,0 +1,8 @@
+{
+  "name": "Las Olas Pipe Restoration",
+  "description": "Premium plumbing infrastructure solutions for Fort Lauderdale high-rises, specializing in cast iron descaling and condo repiping.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
